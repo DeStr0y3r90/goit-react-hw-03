@@ -11,9 +11,9 @@
   align-items: flex-start;
   max-width: 580px;
   margin: 0 auto;
-  background-color: bisque;
+  background-color: rgb(234, 171, 95);
   border: 1px solid rgba(0, 0, 0, 0.63);
-  box-shadow: -10px 8px 6px -3px rgba(0, 0, 0, 0.1);
+  box-shadow: -10px 8px 6px -3px rgba(127, 67, 29, 0.046);
   border-radius: 8px;
 }
 
