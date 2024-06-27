@@ -38,7 +38,7 @@
 }
 
 .message {
-    color: red;
+    color: rgb(145, 0, 0);
     position: relative;
     top: -15px;
 }
