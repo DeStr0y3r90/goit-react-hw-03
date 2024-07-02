@@ -1,5 +1,5 @@
 import { Contact } from "../Contact/contact.jsx";
-import css from "../ContactList/ContactList.module.css";
+import css from "./ContactList.module.css";
 
 export const ContactList = ({ contactsData, onDelete }) => {
   return (
